@@ -1,0 +1,3 @@
+jQuery Table Pan Plugin
+
+Call .tablepan() on a div wrapping a table and you've got yourself an awesome table panning interface.
